@@ -1,3 +1,3 @@
 # PersonalTraingInPython
 
-I created this repository for my personal training in Python programming language
+I created this repository for my personal training in Python programming
